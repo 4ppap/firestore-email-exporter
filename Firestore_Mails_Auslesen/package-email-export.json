@@ -1,0 +1,23 @@
+{
+  "name": "firestore-email-export-service-account",
+  "version": "1.0.0",
+  "description": "Script to export user emails from Firestore using Service Account authentication",
+  "main": "export-with-service-account.js",
+  "scripts": {
+    "export": "node export-with-service-account.js",
+    "install": "npm install firebase-admin"
+  },
+  "dependencies": {
+    "firebase-admin": "^12.0.0"
+  },
+  "keywords": [
+    "firebase",
+    "firestore",
+    "email",
+    "export",
+    "service-account",
+    "admin-sdk"
+  ],
+  "author": "nickoderso",
+  "license": "ISC"
+}
