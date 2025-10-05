@@ -153,7 +153,7 @@ Edit `main.py` and update the SMTP configuration:
 SMTP_SERVER = "smtp.gmail.com"  # Your SMTP server
 SMTP_PORT = 465                  # Usually 465 for SSL or 587 for TLS
 SMTP_USER = "your-email@gmail.com"
-SMTP_PASSWORD = "your-app-password"  # Use App Password for Gmail
+SMTP_PASSWORD = "your-app-password"  # Use App Password
 ```
 
 **For Gmail:**
